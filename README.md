@@ -18,7 +18,7 @@ Check is your birthday lucky from this app. Just for fun😀
 
 CLick 👇
 
-https://your-music-gallery.netlify.app/
+https://predict-from-birthday.netlify.app/
 
 ## Connect me
 
