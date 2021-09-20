@@ -86,6 +86,26 @@ input:focus {
   padding: 5px;
 }
 
+.privacy {
+  color: var(--github-color);
+  font-weight: 900;
+  border-radius: 5px;
+  text-align: center;
+  padding: 5px;
+  background-color: gray;
+  width: 315px;
+  margin: auto auto;
+  height: auto;
+  display: flex;
+}
+
+.privacy img {
+  width: 30px;
+  height: 30px;
+  margin: auto;
+  margin-right: 5px;
+}
+
 /* footer section styling */
 footer {
   background: var(--primary-color);
